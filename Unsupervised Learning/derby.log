@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 23 09:26:15 GMT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0162-522e-155f-00000cd4f220 
+on database directory C:\Users\ploick\Dropbox\Studium\Non-University Education\Machine Learning Nanodegree\Unsupervised Learning\customer_segments\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@72bc6a5b 
+Loaded from file:/C:/Users/ploick/Spark/spark-2.2.1-bin-hadoop2.7/spark-2.2.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\ploick\Dropbox\Studium\Non-University Education\Machine Learning Nanodegree\Unsupervised Learning\customer_segments
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
